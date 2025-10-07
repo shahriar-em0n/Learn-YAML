@@ -2,3 +2,9 @@ tea_type: masala_tea  # Inline comment
 temperature: hot
 servings: 2
 brewing_time: 5
+
+
+tea_recipe:
+  base: black_tea
+  milk: whole_milk
+  
