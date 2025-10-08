@@ -7,4 +7,69 @@ brewing_time: 5
 tea_recipe:
   base: black_tea
   milk: whole_milk
-  
+
+
+tea_name: masala_tea
+description: "tea with cardamom"
+tagline: "the best tea in town"
+
+
+brewing_instruction:  |
+  boil water
+  add tea leaves
+  add milk
+
+brewing_instruction_two: >
+  boil water
+  add tea leaves
+  add milk
+
+cups_per_day: 3
+cups_per_day_two: 3.5
+
+is_hot: true
+add_sugar: yes
+add_salt: no
+instant: no
+
+
+sweetner: null
+alternative_milk: ~
+
+morning_brew: 2025-10-08
+local_time: 2025-10-08 01:43:05
+
+spices:
+  - ginger
+  - cloves
+  - black_pepper
+  - true
+  - 200
+
+spices2: [cardamom, ginger, cloves]
+
+steeping_times: [3, 2, 1]
+
+tea_categories:
+  - name: Traditional
+    varities:
+      - masala tea
+      - ginger tea
+      - cardmon tea
+  - name: Modern
+    varities:
+      - vanilla tea
+      - chocolate tea
+
+# masala_tea: 
+#   ingredients:
+#     tea: black_tea
+#     liquid:
+#       water: 200ml
+#       milk: 100ml
+#     spices:
+#       ginger: 1_inch
+#       cinnamon: 1_stick
+#   preparation: 
+#     method: simmer
+#     duration: 4_minutes
