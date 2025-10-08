@@ -61,15 +61,15 @@ tea_categories:
       - vanilla tea
       - chocolate tea
 
-# masala_tea: 
-#   ingredients:
-#     tea: black_tea
-#     liquid:
-#       water: 200ml
-#       milk: 100ml
-#     spices:
-#       ginger: 1_inch
-#       cinnamon: 1_stick
-#   preparation: 
-#     method: simmer
-#     duration: 4_minutes
+masala_tea: 
+  ingredients:
+    tea: black_tea
+    liquid:
+      water: 200ml
+      milk: 100ml
+    spices:
+      ginger: 1_inch
+      cinnamon: 1_stick
+  preparation: 
+    method: simmer
+    duration: 4_minutes
