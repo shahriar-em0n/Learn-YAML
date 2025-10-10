@@ -89,6 +89,6 @@ default_tea_base: &default_base
   brewing_time: 5
 
 
-# student:
-#   roll: 880
-#   dept: student_CSE
+student:
+  roll: 880
+  dept: student_CSE
