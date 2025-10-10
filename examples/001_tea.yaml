@@ -73,3 +73,22 @@ masala_tea:
   preparation: 
     method: simmer
     duration: 4_minutes
+
+tea_menu:
+  - name: Masala tea
+    price: 30
+    size: regular
+
+  - name: Ginger tea
+    price: 30
+    size: regular
+
+default_tea_base: &default_base
+  tea: black_tea
+  water: 200ml
+  brewing_time: 5
+
+
+# student:
+#   roll: 880
+#   dept: student_CSE
